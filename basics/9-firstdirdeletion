@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdr
+rmdr my_first_directry
