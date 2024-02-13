@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello
+current_owner=$(stat -c '%U' hello)
