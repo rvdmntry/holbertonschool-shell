@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname "html"
+cp -u /tmp/test_html/*.html /tmp/
